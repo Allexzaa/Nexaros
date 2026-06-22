@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="icon.png" alt="Nexaros" width="160" />
+  <img src="icon.png" alt="Nexaros" width="260" />
 </p>
 
-# Nexaros
+<p align="center">
+  <img src="title.svg" alt="NEXAROS" />
+</p>
 
 An AI-powered scheduling platform for appointment-based businesses.
 
