@@ -1,0 +1,15 @@
+{
+  "name": "ai-scheduler",
+  "private": true,
+  "workspaces": [
+    "backend",
+    "staff-web",
+    "client-web"
+  ],
+  "scripts": {
+    "migrate": "npm run migrate --workspace=backend",
+    "migrate:down": "npm run migrate:down --workspace=backend",
+    "seed": "npm run seed --workspace=backend",
+    "dev": "npm run dev --workspace=backend"
+  }
+}
